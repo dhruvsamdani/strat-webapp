@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/strat-webapp/static/css/main.5887d6ea.css",
+    "main.js": "/strat-webapp/static/js/main.893968ca.js",
+    "index.html": "/strat-webapp/index.html",
+    "main.5887d6ea.css.map": "/strat-webapp/static/css/main.5887d6ea.css.map",
+    "main.893968ca.js.map": "/strat-webapp/static/js/main.893968ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5887d6ea.css",
+    "static/js/main.893968ca.js"
+  ]
+}
