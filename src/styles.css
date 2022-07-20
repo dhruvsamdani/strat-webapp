@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Outfit:wght@100;400&display=swap');
+
+:root {
+    --white: #F2F3F8;
+    --dwhite: #e3e3f1;
+    --dblue: #4357ad;
+    --blue: #89bbfe;
+    --coral: #EF767A;
+    --lcoral: #F08286;
+    --lblue: #EBF3FF;
+}
+
+
+.title {
+    font-family: Outfit;
+    font-size: 30px;
+    font-weight: 600;
+    height: 1rem;
+    max-height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dwhite);
+    padding: 1rem;
+
+}
+
+html, body, #root, #root>div {
+    height: 100%;
+    margin: 0;
+  }
+
+.App{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: var(--white);
+    height:max-content;
+}
+.stockSelector{
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+.dt{
+    margin-top : 5rem;
+}
+
+.resData {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
